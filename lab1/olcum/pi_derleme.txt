@@ -1,0 +1,16 @@
+# Mac'te çapraz derleme: ./capraz_derle.sh (Docker, debian:trixie, linux/amd64)
+>> Derleme ortamı hazırlanıyor (trixie, linux/amd64)
+[+] Building 40.8s (7/7) FINISHED                                                                                docker:desktop-linux
+ => [2/3] RUN dpkg --add-architecture arm64  && apt-get update  && apt-get install -y --no-install-recommends crossbuild-essen  33.6s
+ => => naming to docker.io/library/gamze-pi-capraz:trixie
+>> pi_gpio derleniyor
+rm -f pi_gpio
+aarch64-linux-gnu-gcc -O2 -Wall -Wextra -std=gnu11 pi_gpio.c -o pi_gpio -lgpiod -lm
+pi_gpio: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-aarch64.so.1, BuildID[sha1]=d23c40e6e383fcbb1bfc12bab1048f3617a75dbd, for GNU/Linux 3.7.0, not stripped
+aarch64-linux-gnu-gcc (Debian 14.2.0-19) 14.2.0
+
+# Pi'ye kopyalama
+pi_gpio                                                                                             100%   71KB   2.5MB/s   00:00
+
+# Aynı dosya Mac'te çalıştırılınca
+zsh: exec format error: ./pi_gpio

@@ -1,0 +1,65 @@
+pi@rpi:~ $ ./pi_gpio yak
+pi_gpio | libgpiod 2.2.1 | /dev/gpiochip0 hat 17 | zamanlama: normal (SCHED_OTHER) | çekirdek: serbest
+LED 1 Hz ile 5 kez yakılıp söndürülüyor
+  1. yanıp sönme tamam
+  2. yanıp sönme tamam
+  3. yanıp sönme tamam
+  4. yanıp sönme tamam
+  5. yanıp sönme tamam
+pi@rpi:~ $ uname -a; grep Serial /proc/cpuinfo; ./pi_gpio frekans; ./pi_gpio dagilim; sudo ./pi_gpio -r -c 2 frekans; sudo ./pi_gpio -r -c 2 dagilim
+Linux rpi 6.18.50+rpt-rpi-v8 #1 SMP PREEMPT Debian 1:6.18.50-1+rpt1 (2026-09-11) aarch64 GNU/Linux
+Serial : 10000000ce2e71c7
+pi_gpio | libgpiod 2.2.1 | /dev/gpiochip0 hat 17 | zamanlama: normal (SCHED_OTHER) | çekirdek: serbest
+En yüksek hız: 5 pencere x 1.0 s
+  pencere 1: 487000 periyot / 1.0009 s -> f = 486562 Hz (periyot 2055.2 ns)
+  pencere 2: 522000 periyot / 1.0010 s -> f = 521458 Hz (periyot 1917.7 ns)
+  pencere 3: 521000 periyot / 1.0005 s -> f = 520736 Hz (periyot 1920.4 ns)
+  pencere 4: 521000 periyot / 1.0002 s -> f = 520886 Hz (periyot 1919.8 ns)
+  pencere 5: 522000 periyot / 1.0012 s -> f = 521391 Hz (periyot 1917.9 ns)
+Sonuç: ortalama f = 514207 Hz, en düşük 486562 Hz, en yüksek 521458 Hz, fark %6.69
+pi_gpio | libgpiod 2.2.1 | /dev/gpiochip0 hat 17 | zamanlama: normal (SCHED_OTHER) | çekirdek: serbest
+Periyot dağılımı: 1000000 periyot ölçülüyor (her periyoda bir saat okuması eklenir)
+  ortalama 1993.5 ns, standart sapma 347.8 ns
+  en kısa 1925 ns | %50 1982 ns | %90 2000 ns | %99 2019 ns | %99,9 6130 ns | %99,99 11666 ns | en uzun 121477 ns
+  Histogram:
+       0.00 -    1.80 us :        0  (%0.0000)
+       1.80 -    1.90 us :        0  (%0.0000)
+       1.90 -    2.00 us :   751622  (%75.1622)
+       2.00 -    2.10 us :   246611  (%24.6611)
+       2.10 -    2.20 us :       41  (%0.0041)
+       2.20 -    2.50 us :      160  (%0.0160)
+       2.50 -    3.00 us :       11  (%0.0011)
+       3.00 -    5.00 us :        9  (%0.0009)
+       5.00 -   10.00 us :     1409  (%0.1409)
+      10.00 -   20.00 us :      113  (%0.0113)
+      20.00 -   50.00 us :       16  (%0.0016)
+      50.00 -  100.00 us :        7  (%0.0007)
+     100.00 -  200.00 us :        1  (%0.0001)
+     200.00 us ve üstü  :        0  (%0.0000)
+pi_gpio | libgpiod 2.2.1 | /dev/gpiochip0 hat 17 | zamanlama: SCHED_FIFO 90 | çekirdek: CPU 2
+En yüksek hız: 5 pencere x 1.0 s
+  pencere 1: 540000 periyot / 1.0016 s -> f = 539131 Hz (periyot 1854.8 ns)
+  pencere 2: 541000 periyot / 1.0018 s -> f = 540036 Hz (periyot 1851.7 ns)
+  pencere 3: 541000 periyot / 1.0015 s -> f = 540200 Hz (periyot 1851.2 ns)
+  pencere 4: 541000 periyot / 1.0016 s -> f = 540143 Hz (periyot 1851.4 ns)
+  pencere 5: 541000 periyot / 1.0016 s -> f = 540137 Hz (periyot 1851.4 ns)
+Sonuç: ortalama f = 539929 Hz, en düşük 539131 Hz, en yüksek 540200 Hz, fark %0.20
+pi_gpio | libgpiod 2.2.1 | /dev/gpiochip0 hat 17 | zamanlama: SCHED_FIFO 90 | çekirdek: CPU 2
+Periyot dağılımı: 1000000 periyot ölçülüyor (her periyoda bir saat okuması eklenir)
+  ortalama 1887.7 ns, standart sapma 100.6 ns
+  en kısa 1870 ns | %50 1889 ns | %90 1889 ns | %99 1908 ns | %99,9 1926 ns | %99,99 5852 ns | en uzun 31295 ns
+  Histogram:
+       0.00 -    1.80 us :        0  (%0.0000)
+       1.80 -    1.90 us :   936339  (%93.6339)
+       1.90 -    2.00 us :    63009  (%6.3009)
+       2.00 -    2.10 us :       37  (%0.0037)
+       2.10 -    2.20 us :      111  (%0.0111)
+       2.20 -    2.50 us :       29  (%0.0029)
+       2.50 -    3.00 us :        1  (%0.0001)
+       3.00 -    5.00 us :        1  (%0.0001)
+       5.00 -   10.00 us :      458  (%0.0458)
+      10.00 -   20.00 us :       13  (%0.0013)
+      20.00 -   50.00 us :        2  (%0.0002)
+      50.00 -  100.00 us :        0  (%0.0000)
+     100.00 -  200.00 us :        0  (%0.0000)
+     200.00 us ve üstü  :        0  (%0.0000)

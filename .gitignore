@@ -1,0 +1,12 @@
+# ESP-IDF derleme çıktıları
+build/
+sdkconfig
+sdkconfig.old
+managed_components/
+dependencies.lock
+
+# Pi programı (derlenmiş)
+lab1/lab1_pi_libgpiod/pi_gpio
+
+.DS_Store
+__pycache__/

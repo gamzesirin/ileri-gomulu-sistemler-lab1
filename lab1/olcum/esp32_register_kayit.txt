@@ -1,0 +1,284 @@
+I (173273) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (173383) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (173493) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (173603) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (173713) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (173823) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (173933) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (174043) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (174153) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (174263) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (174373) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (174483) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (174593) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (174703) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (174813) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (174923) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (175033) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (175143) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (175253) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (175363) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (175473) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (175583) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (175693) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (175803) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (175913) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (176023) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (176133) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (176243) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (176353) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (176463) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (176573) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (176683) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (176793) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (176903) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (177013) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (177123) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (177233) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (177343) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (177453) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (177563) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (177673) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (177783) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (177893) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (178003) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (178113) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (178223) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (178333) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (178443) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (178553) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (178663) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (178773) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (178883) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (178993) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (179103) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (179213) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (179323) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (179433) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (179543) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (179653) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (179763) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (179873) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (179983) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (180093) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (180203) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (180313) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (180423) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (180533) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (180643) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (180753) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (180863) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (180973) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (181083) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (181193) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (181303) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (181413) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (181523) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (181633) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (181743) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (181853) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (181963) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (182073) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (182183) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (182293) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (182403) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (182513) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (182623) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (182733) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (182843) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (182953) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (183063) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (183173) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (183283) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (183393) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (183503) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (183613) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (183723) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (183833) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (183943) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (184053) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (184163) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (184273) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (184383) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (184493) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (184603) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (184713) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (184823) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (184933) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (185043) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (185153) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (185263) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (185373) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (185483) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (185593) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x15 (USB_UART_CHIP_RESET),boot:0x8 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40378e3a
+--- 0x40378e3a: esp_cpu_wait_for_intr at /Users/gamzesirin/esp/esp-idf/components/esp_hw_support/cpu.c:64
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x14f0
+load:0x403c8700,len:0xde4
+--- 0x403c8700: _stext at ??:?
+load:0x403cb700,len:0x2f58
+entry 0x403c8904
+--- 0x403c8904: call_start_cpu0 at /Users/gamzesirin/esp/esp-idf/components/bootloader/subproject/main/bootloader_start.c:27
+I (24) boot: ESP-IDF v6.1 2nd stage bootloader
+I (24) boot: compile time Oct 28 2026 22:45:49
+I (25) boot: Multicore bootloader
+I (25) boot: chip revision: v0.2
+I (27) boot: efuse block revision: v1.4
+I (31) boot.esp32s3: Boot SPI Speed : 80MHz
+I (35) boot.esp32s3: SPI Mode       : DIO
+I (39) boot.esp32s3: SPI Flash Size : 2MB
+I (42) boot: Enabling RNG early entropy source...
+I (47) boot: Partition Table:
+I (49) boot: ## Label            Usage          Type ST Offset   Length
+I (56) boot:  0 nvs              WiFi data        01 02 00009000 00006000
+I (62) boot:  1 phy_init         RF data          01 01 0000f000 00001000
+I (69) boot:  2 factory          factory app      00 00 00010000 00100000
+I (75) boot: End of partition table
+I (79) esp_image: segment 0: paddr=00010020 vaddr=3c020020 size=098a8h ( 39080) map
+I (93) esp_image: segment 1: paddr=000198d0 vaddr=3fc90100 size=0319ch ( 12700) load
+I (96) esp_image: segment 2: paddr=0001ca74 vaddr=40374000 size=035a4h ( 13732) load
+I (104) esp_image: segment 3: paddr=00020020 vaddr=42000020 size=11088h ( 69768) map
+I (121) esp_image: segment 4: paddr=000310b0 vaddr=403775a4 size=08b04h ( 35588) load
+I (130) esp_image: segment 5: paddr=00039bbc vaddr=50000000 size=00024h (    36) load
+I (135) boot: Loaded app from partition at offset 0x10000
+I (136) boot: Disabling RNG early entropy source...
+I (147) cpu_start: Multicore app
+I (156) cpu_start: GPIO 44 and 43 are used as console UART I/O pins
+I (157) cpu_start: Pro cpu start user code
+I (157) cpu_start: cpu freq: 160000000 Hz
+I (158) app_init: Application information:
+I (162) app_init: Project name:     lab1_gpio
+I (166) app_init: App version:      1
+I (169) app_init: Compile time:     Oct 28 2026 22:45:45
+I (175) app_init: ELF file SHA256:  35eec2fbb...
+I (179) app_init: ESP-IDF:          v6.1
+I (183) efuse_init: Min chip rev:     v0.0
+I (186) efuse_init: Max chip rev:     v0.99 
+I (190) efuse_init: Chip rev:         v0.2
+I (194) heap_init: Initializing. RAM available for dynamic allocation:
+I (201) heap_init: At 3FC93CD0 len 00055A40 (342 KiB): RAM
+I (206) heap_init: At 3FCE9710 len 00005724 (21 KiB): RAM
+I (211) heap_init: At 3FCF0000 len 00008000 (32 KiB): DRAM
+I (216) heap_init: At 600FE000 len 00001FE8 (7 KiB): RTCRAM
+I (222) spi_flash: detected chip: boya
+I (225) spi_flash: flash io: dio
+W (228) spi_flash: Detected size(16384k) larger than the size in the binary image header(2048k). Using the size in the binary image header.
+I (240) sleep_gpio: Configure to isolate all GPIO pins in sleep state
+I (246) sleep_gpio: Enable automatic switching of GPIO sleep configuration
+I (253) main_task: Started on CPU0
+I (253) main_task: Calling app_main()
+I (263) lab1: IO_MUX_GPIO4  = 0x00001a02
+I (263) lab1: GPIO_PIN4     = 0x00000000
+I (263) lab1: FUNC4_OUT_SEL = 0x00000500
+I (273) lab1: GPIO_ENABLE   = 0x00000010
+I (273) lab1: GPIO_OUT      = 0x00000000
+I (273) lab1: GPIO_IN       = 0x3c000001
+I (283) lab1: LED yakıldı, GPIO_IN bit 4 = 1
+I (283) lab1: Bölüm A: 1 Hz yanıp sönme (5 kez)
+I (5293) lab1: Bölüm B: en yüksek hızda değiştirme
+I (5303) lab1: 100000 periyot, 12513 us, ortalama f = 7991688 Hz
+I (5413) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (5523) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (5633) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (5743) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (5853) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (5963) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (6073) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (6183) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (6293) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (6403) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (6513) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (6623) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (6733) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (6843) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (6953) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (7063) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (7173) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (7283) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (7393) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (7503) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (7613) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (7723) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (7833) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (7943) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (8053) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (8163) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (8273) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (8383) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (8493) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (8603) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (8713) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (8823) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (8933) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (9043) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (9153) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (9263) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (9373) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (9483) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (9593) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (9703) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (9813) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (9923) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (10033) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (10143) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (10253) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (10363) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (10473) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (10583) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (10693) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (10803) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (10913) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (11023) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (11133) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (11243) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (11353) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (11463) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (11573) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (11683) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (11793) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (11903) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (12013) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (12123) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (12233) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (12343) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (12453) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (12563) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (12673) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (12783) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (12893) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (13003) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (13113) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (13223) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (13333) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (13443) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (13553) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (13663) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (13773) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (13883) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (13993) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (14103) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (14213) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (14323) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (14433) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (14543) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (14653) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (14763) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (14873) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (14983) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (15093) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (15203) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (15313) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (15423) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (15533) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (15643) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (15753) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (15863) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (15973) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (16083) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
+I (16193) lab1: 100000 periyot, 12510 us, ortalama f = 7993605 Hz
+I (16303) lab1: 100000 periyot, 12511 us, ortalama f = 7992966 Hz
